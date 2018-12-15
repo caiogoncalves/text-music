@@ -22,3 +22,140 @@ uso: git add [<options>] [--] <pathspec>...
     --chmod <(+/-)x>      override the executable bit of the listed files
 
 ]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git add -a[KA
+warning: CRLF will be replaced by LF in .Rproj.user/9042E3C0/console06/C1D11004.
+The file will have its original line endings in your working directory.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git commit -m "pre[Kimeiro commit"
+[master (root-commit) 104e25e] primeiro commit
+ 38 files changed, 880 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/9042E3C0/console06/C1D11004
+ create mode 100644 .Rproj.user/9042E3C0/console06/C1D11004.env
+ create mode 100644 .Rproj.user/9042E3C0/console06/INDEX001
+ create mode 100644 .Rproj.user/9042E3C0/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/9042E3C0/pcs/packages-pane.pper
+ create mode 100644 .Rproj.user/9042E3C0/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/9042E3C0/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/9042E3C0/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/9042E3C0/persistent-state
+ create mode 100644 .Rproj.user/9042E3C0/rmd-outputs
+ create mode 100644 .Rproj.user/9042E3C0/saved_source_markers
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/24140798
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/6DA69639
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/71279920
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/81AF5F3C
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/9AA19E5B
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/EAC75D61
+ create mode 100644 .Rproj.user/9042E3C0/sources/prop/INDEX
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/551A2144
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/551A2144-contents
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/A86A57CA
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/A86A57CA-contents
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/CDCB9DE9
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/CDCB9DE9-contents
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/CFA132CD
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/CFA132CD-contents
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/E23F83AA
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/E23F83AA-contents
+ create mode 100644 .Rproj.user/9042E3C0/sources/s-270DF0FE/lock_file
+ create mode 100644 .Rproj.user/9042E3C0/viewer-cache/39D9CEF8.Rdata
+ create mode 100644 .Rproj.user/9042E3C0/viewer-cache/48A62901.Rdata
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 .gitignore
+ create mode 100644 text_musicas.Rproj
+ create mode 100644 trab.R
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git remote add origin https://github.com/caiogoncalves/text--music
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push --set-upstream origin master
+Username for 'https://github.com': caioagoncalves@gmail.com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/caiogoncalves/text-music/'
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push --set-upstream origin master
+Username for 'https://github.com': caioagoncalves@gmail.com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/caiogoncalves/text-music/'
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push --set-upstream origin master
+Username for 'https://github.com': caioagoncalves@gmail.com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+To https://github.com/caiogoncalves/text-music
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/caiogoncalves/text-music'
+dica: Updates were rejected because the remote contains work that you do
+dica: not have locally. This is usually caused by another repository pushing
+dica: to the same ref. You may want to first integrate the remote changes
+dica: (e.g., 'git pull ...') before pushing again.
+dica: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git pull[K[Ksh
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push --set-upstream origin master
+Username for 'https://github.com': caioagoncalves@gmail.com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+To https://github.com/caiogoncalves/text-music
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/caiogoncalves/text-music'
+dica: Updates were rejected because the remote contains work that you do
+dica: not have locally. This is usually caused by another repository pushing
+dica: to the same ref. You may want to first integrate the remote changes
+dica: (e.g., 'git pull ...') before pushing again.
+dica: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push --set-upstream origin master[K --set-upstream origin master[Kremote add origin https://github.com/caiogoncalves/text--music[C[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K https://github.com/caiogoncalves/text--music.git
+fatal: remote origin already exists.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git remote add origin https://github.com/caiogoncalves/text--music.git[A]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ [C[C[C[C[22Ppush --set-upstream origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/caiogoncalves/text--music.git[A]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/caiogoncalves/text--music.git[A]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ [C[C[C[C[22Ppush --set-upstream origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K --set-upstream origin masterremote add origin https://github.com/caiogoncalves/text--music.git[A]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ [C[C[C[C[22Ppush --set-upstream origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDDD[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kll
+warning: no common commits
+remote: Enumerating objects: 7, done.[K
+remote: Counting objects:  14% (1/7)   [Kremote: Counting objects:  28% (2/7)   [Kremote: Counting objects:  42% (3/7)   [Kremote: Counting objects:  57% (4/7)   [Kremote: Counting objects:  71% (5/7)   [Kremote: Counting objects:  85% (6/7)   [Kremote: Counting objects: 100% (7/7)   [Kremote: Counting objects: 100% (7/7), done.[K
+remote: Compressing objects:  20% (1/5)   [Kremote: Compressing objects:  40% (2/5)   [Kremote: Compressing objects:  60% (3/5)   [Kremote: Compressing objects:  80% (4/5)   [Kremote: Compressing objects: 100% (5/5)   [Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  14% (1/7)   Unpacking objects:  28% (2/7)   Unpacking objects:  42% (3/7)   Unpacking objects:  57% (4/7)   Unpacking objects:  71% (5/7)   Unpacking objects:  85% (6/7)   Unpacking objects: 100% (7/7)   Unpacking objects: 100% (7/7), done.
+From https://github.com/caiogoncalves/text-music
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git branch --set [K-upstream-to=origin/master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push
+Username for 'https://github.com': caioagoncalves@gmail., com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+To https://github.com/caiogoncalves/text-music
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/caiogoncalves/text-music'
+dica: Updates were rejected because the tip of your current branch is behind
+dica: its remote counterpart. Integrate the remote changes (e.g.
+dica: 'git pull ...') before pushing again.
+dica: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git push
+Username for 'https://github.com': caioagonal  calves@gmia  ailc.  c .com
+Password for 'https://caioagoncalves@gmail.com@github.com': 
+To https://github.com/caiogoncalves/text-music
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/caiogoncalves/text-music'
+dica: Updates were rejected because the tip of your current branch is behind
+dica: its remote counterpart. Integrate the remote changes (e.g.
+dica: 'git pull ...') before pushing again.
+dica: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;/home/caio/projetos/text_musicas]0;caio@caio-linux: ~/projetos/text_musicas[01;32mcaio@caio-linux[00m:[01;34m~/projetos/text_musicas[00m$ git add-a[K[K _[K-A
