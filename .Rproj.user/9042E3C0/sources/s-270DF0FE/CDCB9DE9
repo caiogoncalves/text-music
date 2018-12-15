@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544569756452.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDCB9DE9",
+    "lastKnownWriteTime" : 1534061784,
+    "last_content_update" : 1544569756452,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "c2ee3d5a328d479b89cf17e585eb00bd",
+        "name" : "net",
+        "title" : "net"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

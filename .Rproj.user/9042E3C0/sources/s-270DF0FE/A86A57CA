@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544226211185.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A86A57CA",
+    "lastKnownWriteTime" : 1544885301,
+    "last_content_update" : 1544885301006,
+    "path" : "~/projetos/text_musicas/trab.R",
+    "project_path" : "trab.R",
+    "properties" : {
+        "cursorPosition" : "35,9",
+        "scrollLine" : "32",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
